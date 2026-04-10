@@ -128,22 +128,6 @@ Users are expected to comply with [PhysioNet's data usage policies](https://phys
 
 ---
 
-## 📝 Citation
-
-If you use this dataset in your research, please cite it appropriately. A formal citation entry will be provided upon PhysioNet release.
-
-```bibtex
-@dataset{ssmch_ecg,
-  title     = {SSMCH-ECG: A Validated Dataset of 12-Lead Paper-Based ECG Images for Cardiac Abnormality Detection},
-  author    = {...},
-  year      = {2024},
-  publisher = {PhysioNet},
-  note      = {Forthcoming}
-}
-` ` `
-
----
-
 ## 🙏 Acknowledgments
 
 - The **patients** who consented to data use
@@ -154,7 +138,7 @@ If you use this dataset in your research, please cite it appropriately. A formal
 
 ## 📬 Contact
 
-For questions, clarifications, or collaboration inquiries related to the dataset, please contact the dataset authors through the **[PhysioNet platform](https://physionet.org/)**.
+For questions, clarifications, or collaboration inquiries related to the dataset, don't hesitate to get in touch with the dataset authors through the **hasa1511743@diu.edu.bd**.
 
 ---
 
