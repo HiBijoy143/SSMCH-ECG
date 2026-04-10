@@ -148,5 +148,3 @@ For questions, clarifications, or collaboration inquiries related to the dataset
 
 </div>
 ```
-
-Just copy this entire block, go to your GitHub repo, click **Add a README** (or edit the existing one), paste it in, and commit. It will render perfectly.
